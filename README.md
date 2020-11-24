@@ -7,35 +7,35 @@
 <img src="Book_Store_Screenshot/1.1.png" >
 
 
-<b>Register page</b>
+<h2>Register page</h2>
 <img src="Book_Store_Screenshot/1.3.png" >
 
 
-<b>Recovery page</b>
+<h2>Recovery page</h2>
 <img src="Book_Store_Screenshot/1.2.png" >
 
 
-<b>Home Screen</b>
+<h2>Home Screen</h2>
 <img src="Book_Store_Screenshot/2.png" >
 
 
-<b>Book Search</b>
+<h2>Book Search</h2>
 <img src="Book_Store_Screenshot/4.png" >
 
 
-<b>Add Book</b>
+<h2>Add Book</h2>
 <img src="Book_Store_Screenshot/6.png" >
 
 
-<b>Update Book</b>
+<h2>Update Book</h2>
 <img src="Book_Store_Screenshot/12.png" >
 
-<b>Update Customer</b>
+<h2>Update Customer</h2>
 <img src="Book_Store_Screenshot/3.png" >
 
 
-<b>Sale Book</b>
+<h2>Sale Book</h2>
 <img src="Book_Store_Screenshot/18.png" >
 
-<b>Bill Generator</b>
+<h2>Bill Generator</h2>
 <img src="Book_Store_Screenshot/19.png" >
