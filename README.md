@@ -1,5 +1,5 @@
 # Smart-Book-Store
 <b>Splash Screen</b>
-<img src="Book Store Screenshot/0.jpg" >
+<img src="Book_Store_Screenshot/1.png" >
 
-<img src="Book Store Screenshot/1.1.png" >
+<img src="Book_Store_Screenshot/1.1.png" >
