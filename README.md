@@ -1,9 +1,9 @@
 # Smart-Book-Store
 
-#Splash-Screen
+<h2>Splash-Screen</h2>
 <img src="Book_Store_Screenshot/1.png" >
 
-#login page
+<h2>login page</h2>
 <img src="Book_Store_Screenshot/1.1.png" >
 
 
